@@ -1,1 +1,2 @@
 LojaAdventure
+qualquer coisas
